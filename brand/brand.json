@@ -1,0 +1,34 @@
+{
+  "name": "Cbschmitt",
+  "tagline": "Knowledge Built to Travel.",
+  "category": "education",
+  "description": "A modern learning brand focused on courses, educational content, resources, and accessible digital experiences.",
+  "colors": [
+    "#101112",
+    "#fbfaf7",
+    "#cfd4d8",
+    "#ffffff",
+    "#777b80",
+    "#17191b"
+  ],
+  "website": "https://cbschmitt.github.io/",
+  "principles": [
+    "learning",
+    "access",
+    "clarity",
+    "growth"
+  ],
+  "support": {
+    "email": "support@cbschmitt.example",
+    "phone": "+1 202-555-0130",
+    "salesPhone": "+1 202-555-0129",
+    "businessPhone": "+1 202-555-0128",
+    "hours": "DEMO · Mon–Fri · 09:00–17:00",
+    "center": "https://cbschmitt.github.io/support.html"
+  },
+  "privacy": {
+    "connectedAccountEmailPublished": false,
+    "demoContactData": true
+  },
+  "telnyxMode": false
+}
